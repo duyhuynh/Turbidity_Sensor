@@ -9,7 +9,7 @@ The functions available in the library include
 begin(sensorPin)	// start turbidiry sensor with a pin number.
 readTurbidity()		// read Nephelometric Turbidity Units of water (NTU).
 getVoltage()		// read the voltage from the turbidity sensor.
-setSampe(sample)()	// Set the sample number to read the voltage from the turbidity sensor.
+setSampe(sample)	// Set the sample number to read the voltage from the turbidity sensor.
 ```
 ## Examples
 The DTH_Turbidity_Sensor directory contains the DTH_Turbidity_Sensor library and a example sketche
