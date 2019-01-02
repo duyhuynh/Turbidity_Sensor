@@ -1,0 +1,24 @@
+###########################################
+# Syntax Coloring Map For DTH_Turbidity library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+DTH_Turbidity	KEYWORD1
+
+###########################################
+# Constants macro
+###########################################
+TURBIDITY_SAMPLE	LITERAL1
+DTH_MAX_NTU_VOLTAGE	LITERAL1
+DTH_ZERO_NTU_VOLTAGE	LITERAL1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+begin	KEYWORD2
+readTurbidity	KEYWORD2
+setSampe	KEYWORD2
+getVoltage	KEYWORD2
