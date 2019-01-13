@@ -104,7 +104,7 @@ float DTH_Turbidity::convertToNTU(float volt)
 	}
 	else
 	{
-		ntu = (-1143.71142 * volt * volt) + (5742.33353 * volt) - 4357.9;
+		ntu = (-1120.4 * volt * volt) + (5742.3 * volt) - 4352.9;
 		if(ntu < 0)
 			ntu = 0;
 	}

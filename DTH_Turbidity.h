@@ -34,7 +34,7 @@
  *------------------------------------------------------------------*/
 #define TURBIDITY_SAMPLE 16
 #define DTH_MAX_NTU_VOLTAGE 2.5     /* > 3000 NTU with 2.5V */
-#define DTH_ZERO_NTU_VOLTAGE 4.2     /* < 0.5 NTU with 4.2 V */
+#define DTH_ZERO_NTU_VOLTAGE 4.25     /* < 0.5 NTU with 4.25 V */
 
 /*------------------------------------------------------------------*
  *                        Class declaration                         *
